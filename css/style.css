@@ -29,18 +29,28 @@ color: rgb(78, 160, 255)
 }
 
 .text-grey {
-    color: rgb(146, 146, 146);
+    color: rgb(120, 120, 120);
 }
 
 .author {
 font-size: 11px;
 }
 
-.date{
+.date {
     font-size: 7px;
+    margin-bottom: 20px;
 }
 
-.title{
+.title {
     margin-top: 3px;
-    font
+}
+
+.main-img{
+
+    height: 250px;
+}
+
+.credits {
+    color: rgb(120, 120, 120);
+font-size: 9px;
 }
