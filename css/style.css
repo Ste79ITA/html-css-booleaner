@@ -12,7 +12,7 @@ h1 {
 }
 
 ul {
-    margin-left: 2em;
+    margin-left: 1em;
     margin-bottom: 15px;
 
 }
@@ -22,6 +22,8 @@ p {
 }
 
 table {
+    border-collapse: collapse;
+    table-layout: fixed;
     margin-bottom: 15px;
     width: 100%;
 
@@ -56,13 +58,16 @@ color: rgb(78, 160, 255)
 
 }
 
-dark-blue {
+.table-head{
     background-color: rgb(67, 169, 229);
+    color: white;
 }
 
-light-blue {
+tr:nth-child(odd) {
     background-color: rgb(177, 229, 242);
 }
+
+
 
 .author {
 font-size: 11px;
