@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 5px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.banner {
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-size: 37%;
+    height: 60px;
+}
+
+.logo {
+    width: 20%;
+    padding: 5px;
+    margin-top: 16px;
+}
+
+.brand-color {
+color: rgb(78, 160, 255)
+}
+
+.text-grey {
+    color: rgb(146, 146, 146);
+}
+
+.author {
+font-size: 11px;
+}
+
+.date{
+    font-size: 7px;
+}
+
+.title{
+    margin-top: 3px;
+}
