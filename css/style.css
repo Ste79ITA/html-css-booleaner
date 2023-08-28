@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body {
+main {
     padding: 5px;
 }
 
@@ -14,12 +14,12 @@ h1 {
 .banner {
     background-color: rgb(78, 160, 255);
     background-image: url(../img/pattern.png);
-    background-size: 37%;
+    background-size: 230px;
     height: 60px;
 }
 
 .logo {
-    width: 20%;
+    width: 150px;
     padding: 5px;
     margin-top: 16px;
 }
@@ -42,4 +42,5 @@ font-size: 11px;
 
 .title{
     margin-top: 3px;
+    font
 }
