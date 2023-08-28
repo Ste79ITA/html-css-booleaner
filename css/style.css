@@ -67,7 +67,9 @@ tr:nth-child(odd) {
     background-color: rgb(177, 229, 242);
 }
 
-
+.ts {
+    font-size: 14px;
+}
 
 .author {
 font-size: 11px;
